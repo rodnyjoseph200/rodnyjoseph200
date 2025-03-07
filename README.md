@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome! 👋
+
+I am a software engineer and .NET enthusiast with cloud native development experience on AWS and Azure, and over 8 years of experience in the industry. I've also worked extensively in Go (Golang), JavaScript, TypeScript, and Python.
 
 <!--
 **rodnyjoseph200/rodnyjoseph200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
